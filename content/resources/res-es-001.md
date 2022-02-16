@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021/5f65b9d2f13ca1b0ff15d56b535bee6f_res-es-001.jpg
+file: /media/courses/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021/5f65b9d2f13ca1b0ff15d56b535bee6f_res-es-001.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Joseph Harp Correctional Facility is an Oklahoma Department of Corrections
@@ -10,6 +10,8 @@ image_metadata:
     License: CC BY-NC-SA.)'
   credit: ''
   image-alt: A dark hallway with two people walking toward the window with light
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: res-es-001.jpg
 uid: 5f65b9d2-f13c-a1b0-ff15-d56b535bee6f

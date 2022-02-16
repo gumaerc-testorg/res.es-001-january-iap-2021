@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Discussion Resources
 uid: eb02d95f-d252-85b8-ee72-85e308dd8701
 ---
