@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021/2058485cbde261b94164e5519ef517cc_res-es-001th.jpg
+file: /courses/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021/2058485cbde261b94164e5519ef517cc_res-es-001th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Joseph Harp Correctional Facility is an Oklahoma Department of Corrections

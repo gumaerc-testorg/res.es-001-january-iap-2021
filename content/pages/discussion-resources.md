@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page provides a curated resource list for the discussion in the
+  MIT course, MIT Prison Education Initiative Discussion About Incarceration of January
+  IAP, 2021.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Discussion Resources
