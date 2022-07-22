@@ -11,6 +11,7 @@ image_metadata:
   credit: ''
   image-alt: A dark hallway with two people walking toward the window with light
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-es-001.jpg
