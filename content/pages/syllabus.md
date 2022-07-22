@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page provides the course information for the MIT course MIT Prison
+  Education Initiative Discussions About Incarceration of 2021 January IAP .
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Syllabus
 uid: e40065f1-2cb5-69fb-a2a7-29c762d966cd
 ---
@@ -12,7 +16,7 @@ Course Meeting Times
 Description
 -----------
 
-To have a general idea of these topics, please come into these discussions having read/watched/listened to these [resources]({{< baseurl >}}/pages/discussion-resources) of each week before we discuss that topic.
+To have a general idea of these topics, please come into these discussions having read/watched/listened to these {{% resource_link eb02d95f-d252-85b8-ee72-85e308dd8701 "resources" %}} of each week before we discuss that topic.
 
 Prerequisites
 -------------
