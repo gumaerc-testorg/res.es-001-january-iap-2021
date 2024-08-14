@@ -24,9 +24,10 @@
     "website": "res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021"
   },
   "course_title": "MIT Prison Education Initiative Discussion About Incarceration",
+  "hide_download": false,
   "course_description": "The [MIT Prison Education Initiative (PEI)](http://pei.mit.edu/) hosted this non-credit January IAP course to give the MIT community an opportunity to engage in discussions about mass incarceration and criminal justice reform. The Independent Activities Period (IAP) is a special four week term at MIT that runs from the first week of January until the end of the month.\n",
   "department_numbers": [
-    "RES"
+    "ES"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.ES-001",
