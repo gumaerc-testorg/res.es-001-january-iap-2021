@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021/5f65b9d2f13ca1b0ff15d56b535bee6f_res-es-001.jpg
+file: /ol-ocw-studio-app/courses/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021/5f65b9d2f13ca1b0ff15d56b535bee6f_res-es-001.jpg
 file_size: 12733
 file_type: image/jpeg
 image_metadata:
