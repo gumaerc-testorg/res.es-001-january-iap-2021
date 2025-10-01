@@ -6,9 +6,8 @@ file_size: 3711
 file_type: image/jpeg
 image_metadata:
   caption: 'Joseph Harp Correctional Facility is an Oklahoma Department of Corrections
-    state prison for men located in Lexington, Oklahoma. (Image courtesy of [Josh
-    Rushing](https://www.flickr.com/photos/joshrushing/5774477462/in/photolist-9NgGYf).
-    License: CC BY-NC-SA.)'
+    state prison for men located in Lexington, Oklahoma. (Image courtesy of {{% resource_link
+    "0d11501e-4591-4550-baf5-3295ed1b702c" "Josh Rushing" %}}. License: CC BY-NC-SA.)'
   credit: ''
   image-alt: A dark hallway with two people walking toward the window with light
 learning_resource_types: []
